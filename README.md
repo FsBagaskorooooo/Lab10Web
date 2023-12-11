@@ -19,7 +19,7 @@
 ## Buat file dengan nama database.php
 ![ss7](https://github.com/FsBagaskorooooo/Lab10Web/assets/130354090/08c24ffd-7b31-4343-a1a3-b4e9e685063d)
 
-### Hasilnya
+## Hasilnya
 ![ss5](https://github.com/FsBagaskorooooo/Lab10Web/assets/130354090/8de676d5-e2ad-4923-b1db-0bb8f05bbbc2)
 
 
